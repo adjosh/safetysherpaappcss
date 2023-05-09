@@ -15,7 +15,7 @@ button.alert-button.ion-focusable.ion-activatable.sc-ion-alert-md.ion-activated 
     color: #ffffff;
     font-weight: bold;
 }
-#page-addon-mod-quiz-player {
+page-addon-mod-quiz-player {
     .addon-mod_quiz-question-note {
         :not(p:first-of-type) {
             display: none;
