@@ -1,0 +1,24 @@
+/* Mobile App CSS for The Safety Sherpa Moodle */
+
+#page-mod-quiz-summary.moodle-dialogue-confirm .confirmation-dialogue input {
+    background-color: #1E326D;
+    color: #ffffff;
+    font-weight: bold;
+}
+button.alert-button.ion-focusable.ion-activatable.alert-button-role-cancel.sc-ion-alert-md {
+    background-color: #1E326D;
+    color: #ffffff;
+    font-weight: bold;
+}
+button.alert-button.ion-focusable.ion-activatable.sc-ion-alert-md.ion-activated {
+    background-color: #1E326D;
+    color: #ffffff;
+    font-weight: bold;
+}
+#page-addon-mod-quiz-player {
+    .addon-mod_quiz-question-note {
+        :not(p:first-of-type) {
+            display: none;
+        }
+    }
+}
