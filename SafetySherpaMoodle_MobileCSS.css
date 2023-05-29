@@ -15,7 +15,7 @@ button.alert-button.ion-focusable.ion-activatable.sc-ion-alert-md.ion-activated 
     color: #ffffff;
     font-weight: bold;
 }
-page-mod-quiz-attempt.info .grade {
+#page-mod-quiz-attempt.info .grade {
     display: none !important;
 }
 #page-addon-mod-quiz-player {
